@@ -1,0 +1,15 @@
+{
+  "name": "usaspendinggov-typescript-fetch-client",
+  "version": "1.0.1",
+  "description": "Typescript-fetch client generated from api.usaspending.gov v2 2021-03-23 contract specification.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
