@@ -1,6 +1,6 @@
 {
   "name": "usaspendinggov-typescript-fetch-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Typescript-fetch client generated from api.usaspending.gov v2 2021-03-23 contract specification.",
   "license": "ISC",
   "author": "",
